@@ -1,2 +1,2 @@
-# manning-go-algorithms
+# go-algorithms
 Go algorithms live project
